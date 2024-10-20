@@ -79,7 +79,7 @@ The model was able to successfully detect fraudulent transactions with a high re
 ![image](https://github.com/user-attachments/assets/7f922c06-1aca-47c9-8eae-de374c70d533)
 
 ### Conclusion :
-Thus we have achieved the goal of our project.
+From the above dataset we used there are 12,753 verified payments and 190 fraud payments.Thus we have achieved the goal of our project i.e Fraud Payment Detection with the accuracy of 1.0.
 
 
 
