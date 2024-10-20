@@ -76,7 +76,12 @@ Copy code
 ```
 pip install -r requirements.txt
 ```
+## Video Demonstration
 
+Here is a demonstration of the project:
+
+[Watch the Video](https://go.screenpal.com/watch/cZ6YhYVWMQZ?_gl=1*1i7wwub*_ga*MTIyOTQyMTQwNy4xNzI5NDAwMDUz*_ga_J7G603GGVL*MTcyOTQwMDA1My4xLjEuMTcyOTQwMTY0Mi4wLjAuMA)
+### Output :
 ![image](https://github.com/user-attachments/assets/a72fe750-3e04-4c14-80d0-1aac388d89f7)
 
 ![image](https://github.com/user-attachments/assets/18500d71-c6ea-4439-ad84-7ee81fffdfd9)
