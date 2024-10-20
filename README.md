@@ -78,7 +78,7 @@ The model was able to successfully detect fraudulent transactions with a high re
 ![image](https://github.com/user-attachments/assets/a3d1df27-de48-4751-8096-624eb2e477b1)
 ![image](https://github.com/user-attachments/assets/7f922c06-1aca-47c9-8eae-de374c70d533)
 
-###Conclusion :
+### Conclusion :
 Thus we have achieved the goal of our project.
 
 
