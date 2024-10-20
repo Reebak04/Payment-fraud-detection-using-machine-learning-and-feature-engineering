@@ -87,7 +87,7 @@ Here is a demonstration of the project:
 ![image](https://github.com/user-attachments/assets/18500d71-c6ea-4439-ad84-7ee81fffdfd9)
 
 ## Conclusion :
-From the above dataset we used there are 12,753 verified payments and 190 fraud payments.Thus we have achieved the goal of our project i.e Fraud Payment Detection with the accuracy of 1.0.
+In the above dataset we used there were total of 12,943 payments. At first we pre-processed the data and trained using machine learning algorithm and found the accuracy using logistic regression i.e. 100% accuracy. In the total of 12,943 payments, There were 12,753 normal payments and 190 fraud payments.Thus we have achieved the goal of our project i.e Fraud Payment Detection with the accuracy of 1.0.
 
 
 
