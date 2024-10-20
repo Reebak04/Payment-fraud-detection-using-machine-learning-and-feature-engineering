@@ -35,7 +35,7 @@ Customer Behavior Features: Frequency of transactions, location, etc.
 Class Label: 1 for fraud, 0 for legitimate.
 
 ### Source:
-[Insert the link to your dataset if available].
+The source of the project is payment_fraud.xls file that is uploaded.
 
 ### Approach
 1. Data Preprocessing
