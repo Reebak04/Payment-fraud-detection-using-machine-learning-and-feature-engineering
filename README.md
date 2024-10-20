@@ -14,16 +14,8 @@ Dataset
 3. Model Building
 4. Model Evaluation
    
-### Results
 
-Dependencies
-How to Use
-Future Improvements
-Contributors
-Project Overview
-This project aims to detect fraudulent transactions from payment data using machine learning models and feature engineering techniques. Fraud detection is critical for businesses to prevent monetary losses and protect customers from unauthorized activities. The challenge involves dealing with imbalanced data, as fraudulent transactions are a small fraction of the total.
-
-Motivation
+### Motivation
 Payment fraud detection is a real-world problem that impacts millions of financial transactions daily. We aim to build a reliable machine learning pipeline to identify suspicious transactions, focusing on minimizing false negatives (failing to detect fraud) while maintaining accuracy.
 
 ### Dataset
