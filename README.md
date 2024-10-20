@@ -76,10 +76,6 @@ Copy code
 ```
 pip install -r requirements.txt
 ```
-
-### Results
-Best Performing Model: [Insert details of the best model, e.g., Random Forest with an F1 score of X].
-The model was able to successfully detect fraudulent transactions with a high recall and acceptable precision.
 ### our project output :
 ![image](https://github.com/user-attachments/assets/96b605ba-d8b5-46f5-8135-50a3995b31af)
 ![image](https://github.com/user-attachments/assets/a3d1df27-de48-4751-8096-624eb2e477b1)
