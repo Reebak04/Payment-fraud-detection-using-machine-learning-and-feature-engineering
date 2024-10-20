@@ -64,3 +64,10 @@ Techniques like SMOTE (Synthetic Minority Over-sampling Technique) were used to 
 Results
 Best Performing Model: [Insert details of the best model, e.g., Random Forest with an F1 score of X].
 The model was able to successfully detect fraudulent transactions with a high recall and acceptable precision.
+### our project output :
+![image](https://github.com/user-attachments/assets/96b605ba-d8b5-46f5-8135-50a3995b31af)
+![image](https://github.com/user-attachments/assets/a3d1df27-de48-4751-8096-624eb2e477b1)
+![image](https://github.com/user-attachments/assets/7f922c06-1aca-47c9-8eae-de374c70d533)
+
+
+
