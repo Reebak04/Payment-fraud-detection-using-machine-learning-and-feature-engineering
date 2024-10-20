@@ -7,14 +7,14 @@ Project Overview
 Motivation
 Dataset
 
-Approach
+### Approach
 
 1. Data Preprocessing
 2. Feature Engineering
 3. Model Building
 4. Model Evaluation
    
-Results
+### Results
 
 Dependencies
 How to Use
@@ -26,7 +26,7 @@ This project aims to detect fraudulent transactions from payment data using mach
 Motivation
 Payment fraud detection is a real-world problem that impacts millions of financial transactions daily. We aim to build a reliable machine learning pipeline to identify suspicious transactions, focusing on minimizing false negatives (failing to detect fraud) while maintaining accuracy.
 
-Dataset
+### Dataset
 The dataset contains anonymized features of transactions, such as time of transaction, amount, and other behavioral and transactional features. A typical dataset will have:
 
 Transaction Amount: Amount involved in the transaction.
@@ -34,10 +34,10 @@ Transaction Time: Time of the transaction.
 Customer Behavior Features: Frequency of transactions, location, etc.
 Class Label: 1 for fraud, 0 for legitimate.
 
-Source:
+### Source:
 [Insert the link to your dataset if available].
 
-Approach
+### Approach
 1. Data Preprocessing
 Handling Missing Values: Cleaned the data to ensure no missing or inconsistent entries.
 Encoding Categorical Variables: Converted any categorical variables into numerical formats using techniques like one-hot encoding.
@@ -59,7 +59,24 @@ Recall: Ensured a high detection rate for fraud (minimizing false negatives).
 F1 Score: Balanced precision and recall.
 ROC-AUC: Evaluated model discrimination ability.
 Techniques like SMOTE (Synthetic Minority Over-sampling Technique) were used to balance the dataset.
+### Installation
+To run this project, you will need to have Python installed on your machine. Follow these steps to set up the environment:
 
+Clone the repository:
+
+bash
+Copy code
+```
+git clone https://github.com/Reebak04/Payment-fraud-detection-using-machine-learning-and-feature-engineering.git
+cd Payment-fraud-detection-using-machine-learning-and-feature-engineering
+```
+Install the required packages:
+
+bash
+Copy code
+```
+pip install -r requirements.txt
+```
 
 Results
 Best Performing Model: [Insert details of the best model, e.g., Random Forest with an F1 score of X].
